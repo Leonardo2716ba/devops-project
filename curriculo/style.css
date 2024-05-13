@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Cor de fundo clara */
+}
+
+header {
+    background-color: #333; /* Cor de fundo da cabeçalho */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+img {
+    border-radius: 50%; /* Arredonda as bordas da imagem */
+    max-width: 150px; /* Ajusta o tamanho da imagem */
+    margin: 0 auto; /* Centraliza a imagem */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.projeto {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra para efeito de destaque */
+}
+
+.projeto img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed; /* Posiciona o footer na parte inferior da tela */
+    bottom: 0;
+    width: 100%;
+}
+
